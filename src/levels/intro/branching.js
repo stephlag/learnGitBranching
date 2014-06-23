@@ -340,7 +340,7 @@ exports.level = {
             "markdowns": [
               "## Branches Git",
               "",
-              "Les branches sous Git sont incroyablement légères aussi. Elles sont simplment des références un commit spécifique -- rien de plus. C'est pourquoi beaucoup d'enthousiastes répètent en cœur :",
+              "Les branches sous Git sont incroyablement légères aussi. Elles sont simplement des références un commit spécifique -- rien de plus. C'est pourquoi beaucoup d'enthousiastes répètent en cœur :",
               "",
               "```",
               "n'attendez pas pour faire des branches, et faites souvent des branches",
@@ -374,7 +374,7 @@ exports.level = {
               "Travaillons mainenant dans cette branche. Appuyez sur le bouton ci-dessous."
             ],
             "afterMarkdowns": [
-              "Oh non! La branche `master` a bougé mais pas la branche `newImage` ! C'est parce aue nous n'étions pas  \"sur\" la nouvelle branche, comme indiqué par l'asterisque (*) sur `master`"
+              "Oh non! La branche `master` a bougé mais pas la branche `newImage`! C'est parce que nous n'étions pas  \"sur\" la nouvelle branche, comme indiqué par l'asterisque (*) sur `master`"
             ],
             "command": "git commit",
             "beforeCommand": "git branch newImage"
